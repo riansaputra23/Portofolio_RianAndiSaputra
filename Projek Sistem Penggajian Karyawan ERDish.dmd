@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Projek Sistem Penggajian Karyawan ERDish" id="A7AB7F73-1E05-E508-66C2-A9176A4A3CA9" version="3.5">
+<createdBy>ACER</createdBy>
+<createdTime>2023-06-12 17:33:21 UTC</createdTime>
+<ownerDesignName>Projek Sistem Penggajian Karyawan ERDish</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A7AB7F73-1E05-E508-66C2-A9176A4A3CA9</designId>
+</OSDM_Design>
